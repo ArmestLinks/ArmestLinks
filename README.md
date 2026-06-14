@@ -1,28 +1,24 @@
-## Hello World 👋
+# Hello World 👋
 
-My name is Juan and I'm from Argentina. I specialize in cloud infrastructure with a focus on Google Cloud Platform (GCP) ☁️
+My name is Juan and I'm a Cloud Engineer based in Argentina 🇦🇷
+with 3+ years of experience designing and managing multi-cloud infrastructure across GCP, AWS, and Azure.
 
-## Skills
-- Studying new technologies 24/7.
-- Practitioner of DevOps philosophies.
-- Managing Windows & Linux at home and work.
-- Knowledge in containerization and orchestration tools.
-- Experience in GCP, AWS & Azure  and most of its services.
+## 🛠️ Skills & Tools
 
-## Contact 
-Find my contact information at: https://armestlinks.com.ar 📫
+- ☁️ Multi-cloud: GCP, AWS, Azure
+- 🐳 Containerization & Orchestration: Docker, Kubernetes
+- 🏗️ Infrastructure as Code: Terraform
+- 🐧 Linux & Windows Server administration
+- 🔁 DevOps methodologies & CI/CD pipelines
+- 🐍 Scripting: Python, Bash
+- 🤖 Daily AI user — integrating AI tools into workflows for productivity and problem-solving
 
-<!--
-**ArmestLinks/ArmestLinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📜 Certifications
 
-Here are some ideas to get you started:
+- Google Cloud Professional Architect
+- Google Cloud Associate Cloud Engineer
+- Google Cloud Professional DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+
+Find me at: [armestlinks.com.ar](https://armestlinks.com.ar)
